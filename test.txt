@@ -1,0 +1,6 @@
+Projet test 
+
+commande : git init
+description : initialiser un projet git dans le dossier dans lequel on se situe.
+
+====================================
